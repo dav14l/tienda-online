@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /** @author David Dorado */
-public class TiendaOnline {
+public class Viaje {
     public static void main(String[] args) {
         final String NOMBRE = "David";
         final String CONTRASENA = "Dorado";
